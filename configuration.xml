@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <implicitlyWait>30</implicitlyWait>
+	<titleAdminPanel>Панель управления</titleAdminPanel>
+	<testArticleName>Тест сатья</testArticleName>
+	<testEditedArticleName>Тест сатья 2</testEditedArticleName>
+	<testTextArticle>Тест. Текст статьи.</testTextArticle>
+	<login>admin</login>
+	<password>cruises@429114</password>
+	<testGalleryName>Тест галерея наименование</testGalleryName>
+	<testFileGallery>Тест файлы галереи</testFileGallery>
+	<filePath>D:\\test.jpg</filePath>
+	<baseUrl>http://localhost:8080/tartustour-russia</baseUrl>
+	<adminPanelUrl>/login.jsp</adminPanelUrl>
+	<pages>
+		<page>/novyiy_god_-_rechnyie_kruizyi/</page>
+		<page>/krugosvetnye-kruizy/</page>
+		<page>/kruizy-v-avstraliu/</page>
+		<page>/kruizyi_iz_odessyi/</page>
+		<page>/kruizyi_iz_sankt-peterburga/</page>
+		<page>/kruizy-na-bagamy/</page>
+		<page>/kruizy-po-azii/</page>
+		<page>/kruizyi_po_evrope/</page>
+		<page>/kruizyi_po_karibam/</page>
+		<page>/morskie_kruizyi/</page>
+		<page>/kruizy-po-persidskomu-zalivu/</page>
+		<page>/kruizyi_po_sredizemnomu_moryu/</page>
+		<page>/kruizyi_po_stranam_skandinavii/</page>
+		<page>/kruizy-po-ukraine/</page>
+		<page>/kruizy-po-francii/</page>
+		<page>/kruizyi_po_chernomu_moryu/</page>
+		<page>/kruizyi_po_norvejskim_fordam/</page>
+		<page>/may_-_morskie_kruizyi/</page>
+		<page>/may_-_rechnyie_kruizyi/</page>
+		<page>/kruizyi_na_valaam/</page>
+		<page>/morskie_kruizyi_s_russkimi_gruppami/</page>
+		<page>/novyiy_god_-_morskie_kruizyi/</page>
+		<page>/novogodnie-kruizy-iz-sankt-peterburga/</page>
+		<page>/transatlanticheskie-kruizy/</page>
+		<page>/rechnyie_kruizyi/</page>
+		<page>/rechnye-kruizy-premium/</page>
+		<page>/rechnye-kruizy-premium/</page>
+		<page>/kruizyi_po_rossii/</page>
+		<page>/novogodnie-kruizy-iz-odessy/</page>
+		<page>/rechnyie_kruizyi_iz_izmaila/</page>
+		<page>/kruizyi_po_zolotomu_koltsu/</page>
+	</pages>
+</configuration>
